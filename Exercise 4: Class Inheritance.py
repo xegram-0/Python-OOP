@@ -32,6 +32,8 @@ class Bus(Vehicle):
         # This does nothing to the overall result
         #self.capacity = 50
         return f"The seating capacity of a {self.name} is {capacity} passengers"
+    # def seating_capacity(self, capacity=50):
+    #     return super().seating_capacity(capacity=50)
     
 
 schoolBus = Bus("School Bus 09", 100, 30000)
