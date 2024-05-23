@@ -1,0 +1,1 @@
+# Exercise 5: Define a property that must have the same value for every class instance (object)
