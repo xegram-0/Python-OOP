@@ -1,0 +1,1 @@
+# Exercise 7: Check type of an object
